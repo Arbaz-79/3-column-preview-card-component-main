@@ -77,6 +77,10 @@
 .card-3 {
   background-color: var(--Very-dark-cyan);
 }
+footer{
+  text-align: center;
+}
+
 @media screen and (max-width: 40em) {
   .cards-container{
     flex-direction: column;
