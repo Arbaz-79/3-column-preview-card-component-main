@@ -85,10 +85,7 @@ footer{
   .cards-container{
     flex-direction: column;
   }
-
-   .card{
-  min-height: 27rem;
-  background-color: black;
-  }
-} 
+}
+  
+  
   
